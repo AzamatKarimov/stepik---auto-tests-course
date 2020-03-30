@@ -15,3 +15,4 @@ def test_product_page_contains_a_button_to_add_to_cart(browser):
     )
 
     assert add_btn, 'success if add button exist'
+    #assert 
